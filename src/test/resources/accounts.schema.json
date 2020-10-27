@@ -33,9 +33,7 @@
         "enum": [
           "RUB",
           "USD"
-        ],
-        "minProperties": 0,
-        "maxProperties": 2
+        ]
       }
     }
   }
